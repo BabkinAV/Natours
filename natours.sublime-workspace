@@ -1,0 +1,611 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"bac",
+				"background-position\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Package Control Messages\n========================\n\nColor Highlighter\n-----------------\n\n  \n  Color Highlighter v8.0 is released!\n  \n  For more info about the plugin visit https://github.com/Monnoroch/ColorHighlighter.\n  \n  Color Highlighter was developed for many years and features were added without consideration.\n  As a result it has plenty of bugs and code is completely unmaintainable.\n  Because of it, I've decided to rewrite the plugin from scratch using all the good programming practices I learned\n  over the years.\n  \n  This is the first release of the new version and it might have some subtle bugs, especially on Windows and Mac, as I\n  don't have machines with these systems. If you find any bugs, please file them in\n  the bug tracker here: https://github.com/Monnoroch/ColorHighlighter/issues. I always appreciate your help and try to fix\n  problems as soon as possible.\n  \n  The plugin is being developed by me alone in my spare time, so if you want to encourage me to build it\n  better and faster, donations as always welcome.\n  \n  Thank you guys for your support, every little bit helps!\n",
+			"settings":
+			{
+				"buffer_size": 1107,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 767,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 532,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/template-parts"
+	],
+	"file_history":
+	[
+		"/C/Games/Valkyria.Chronicles.4-CODEX/codex.nfo",
+		"/C/Udemy/Advanced CSS/Projects/Natours/css/style.css",
+		"/C/Udemy/Advanced CSS/Projects/Natours/index.html",
+		"/C/Users/79267/Documents/.htaccess",
+		"/C/Users/79267/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/79267/Desktop/wp-config.php",
+		"/C/Users/79267/Desktop/Сергей сайт/backups/2020-02-03/wp-config.php",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/inc/template-tags.php",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/style.css",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/assets/scss/components/icon/_social-icon.scss",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/inc/widgets/widgets.php",
+		"/C/MAMP/htdocs/sergey/wp-config.php",
+		"/C/MAMP/htdocs/sergey/.htaccess",
+		"/C/Users/79267/Desktop/Сергей сайт/20200126_d181d0b5d180d0b3d0b5d0b9d0b1d0_0844f0afe24995de3189_20200126084747_archive/wp-content/plugins/backwpup/.htaccess",
+		"/C/Users/79267/Desktop/Сергей сайт/20200126_d181d0b5d180d0b3d0b5d0b9d0b1d0_0844f0afe24995de3189_20200126084747_archive/wp-content/uploads/backwpup-857260-temp/.htaccess",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/header.php",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/assets/libraries/font-awesome/css/font-awesome.css",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/assets/libraries/magnific/js/jquery.magnific-popup.min.js",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/assets/libraries/magnific/js/jquery.magnific-popup.js",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/assets/scss/components/_magnific-popup.scss",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/functions.php",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/assets/twp/js/main.js",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/assets/libraries/magnific/css/magnific-popup.css",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/template-parts/content-page.php",
+		"/C/MAMP/conf/mysql/my.ini",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio-child/style.css",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio-child/inc/template-tags.php",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/archive.php",
+		"/C/Users/79267/Desktop/template-tags.php",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/inc/hooks/blog-banner-slider.php",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/page-template/portfolio-template.php",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/page-template/photography-template.php",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/assets/twp/css/wp-admin.css",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio-child/functions.php",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/inc/customize/page-template.php",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/sidebar.php",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/404.php",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/index.php",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/assets/scss/layouts/_blog-slider.scss",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/assets/scss/layouts/slider/_arrow.scss",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/assets/scss/layouts/slider/_dots.scss",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/assets/scss/layouts/slider/_gallery.scss",
+		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/assets/scss/layouts/slider/_master.scss",
+		"/C/MAMP/conf/php7.2.10/php.ini",
+		"/C/Users/79267/Desktop/WooCommerce/dashboard.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"C:\\MAMP\\htdocs\\sergey\\wp-content\\themes\\eportfolio\\",
+			"C:\\MAMP\\htdocs\\sergey\\wp-content\\themes\\eportfolio\\assets",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#0177b5",
+			"linkedin",
+			"twp-social-icon-section",
+			"linkedin",
+			"magnific",
+			"%curr% ",
+			"'%curr% of %total%'",
+			"magnific",
+			"jquery.magnific-popup.js",
+			"registerModule",
+			"of",
+			"mfp-counter",
+			"of",
+			"mfp-counter",
+			"mfp-bottom-bar",
+			"of",
+			"mfp-counter",
+			"author",
+			"log-bin",
+			"cat-links",
+			"slick",
+			"logo",
+			"post",
+			"postdate",
+			"post date",
+			"post-date",
+			"date",
+			"logo",
+			"custom-logo",
+			"twp-post-date",
+			"ago",
+			"twp-post-date",
+			"style",
+			"upload_max_filesize",
+			"display_e"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								50
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 767,
+						"regions":
+						{
+							"col_008000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+								],
+								"scope": "col_008000FF"
+							},
+							"col_008000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_008000FF_circle.png",
+								"regions":
+								[
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF0000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+								],
+								"scope": "col_FF0000FF"
+							},
+							"col_FF0000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF0000FF_circle.png",
+								"regions":
+								[
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								693,
+								693
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 532,
+						"regions":
+						{
+							"col_008000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										18,
+										23
+									],
+									[
+										40,
+										45
+									],
+									[
+										60,
+										65
+									]
+								],
+								"scope": "col_008000FF"
+							},
+							"col_008000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_008000FF_circle.png",
+								"regions":
+								[
+									[
+										12,
+										12
+									],
+									[
+										33,
+										33
+									],
+									[
+										55,
+										55
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_28B483CC":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										373,
+										395
+									]
+								],
+								"scope": "col_28B483CC"
+							},
+							"col_28B483CC_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_28B483CC_circle.png",
+								"regions":
+								[
+									[
+										371,
+										371
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_28B485FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										67,
+										74
+									]
+								],
+								"scope": "col_28B485FF"
+							},
+							"col_28B485FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_28B485FF_circle.png",
+								"regions":
+								[
+									[
+										55,
+										55
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_55C57AFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										47,
+										54
+									]
+								],
+								"scope": "col_55C57AFF"
+							},
+							"col_55C57AFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_55C57AFF_circle.png",
+								"regions":
+								[
+									[
+										33,
+										33
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_777777FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										243,
+										247
+									]
+								],
+								"scope": "col_777777FF"
+							},
+							"col_777777FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_777777FF_circle.png",
+								"regions":
+								[
+									[
+										235,
+										235
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_7ED56FCC":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										344,
+										368
+									]
+								],
+								"scope": "col_7ED56FCC"
+							},
+							"col_7ED56FCC_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_7ED56FCC_circle.png",
+								"regions":
+								[
+									[
+										342,
+										342
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_7ED56FFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										25,
+										32
+									]
+								],
+								"scope": "col_7ED56FFF"
+							},
+							"col_7ED56FFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_7ED56FFF_circle.png",
+								"regions":
+								[
+									[
+										12,
+										12
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								532,
+								532
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "natours.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
