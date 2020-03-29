@@ -4,6 +4,54 @@
 		"selected_items":
 		[
 			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"col",
+				"color-black"
+			],
+			[
+				"colo",
+				"color-primary-light"
+			],
+			[
+				"ani",
+				"animation-fill-mode\tproperty"
+			],
+			[
+				"scal",
+				"scaleX()\ttransform"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"eas",
+				"ease-in\tanimation-timing-function"
+			],
+			[
+				"anim",
+				"animation-timing-function\tproperty"
+			],
+			[
 				"co",
 				"cover\tbackground-size"
 			],
@@ -16,32 +64,57 @@
 	"buffers":
 	[
 		{
-			"contents": "Package Control Messages\n========================\n\nColor Highlighter\n-----------------\n\n  \n  Color Highlighter v8.0 is released!\n  \n  For more info about the plugin visit https://github.com/Monnoroch/ColorHighlighter.\n  \n  Color Highlighter was developed for many years and features were added without consideration.\n  As a result it has plenty of bugs and code is completely unmaintainable.\n  Because of it, I've decided to rewrite the plugin from scratch using all the good programming practices I learned\n  over the years.\n  \n  This is the first release of the new version and it might have some subtle bugs, especially on Windows and Mac, as I\n  don't have machines with these systems. If you find any bugs, please file them in\n  the bug tracker here: https://github.com/Monnoroch/ColorHighlighter/issues. I always appreciate your help and try to fix\n  problems as soon as possible.\n  \n  The plugin is being developed by me alone in my spare time, so if you want to encourage me to build it\n  better and faster, donations as always welcome.\n  \n  Thank you guys for your support, every little bit helps!\n",
-			"settings":
-			{
-				"buffer_size": 1107,
-				"line_ending": "Windows",
-				"name": "Package Control Messages",
-				"read_only": true,
-				"scratch": true
-			}
-		},
-		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 767,
+				"buffer_size": 3642,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "css/style.css",
+			"file": "sass/layout/_grid.scss",
 			"settings":
 			{
-				"buffer_size": 532,
+				"buffer_size": 827,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/base/_utilities.scss",
+			"settings":
+			{
+				"buffer_size": 78,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/pages/_home.scss",
+			"settings":
+			{
+				"buffer_size": 97,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/base/_typography.scss",
+			"settings":
+			{
+				"buffer_size": 1082,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/main.scss",
+			"settings":
+			{
+				"buffer_size": 299,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -58,6 +131,14 @@
 		[
 			[
 				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: css",
+				"Set Syntax: SCSS"
+			],
+			[
+				"install",
 				"Package Control: Install Package"
 			],
 			[
@@ -85,14 +166,33 @@
 	},
 	"expanded_folders":
 	[
-		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio",
-		"/C/MAMP/htdocs/sergey/wp-content/themes/eportfolio/template-parts"
+		"/C/Udemy/Advanced CSS/Projects/Natours",
+		"/C/Udemy/Advanced CSS/Projects/Natours/css",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/abstracts",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/pages"
 	],
 	"file_history":
 	[
-		"/C/Games/Valkyria.Chronicles.4-CODEX/codex.nfo",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/abstracts/_variables.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_grid.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/abstracts/_mixins.scss",
+		"/C/Users/79267/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Udemy/Advanced CSS/Projects/Natours/package.json",
+		"/C/Udemy/Advanced CSS/Projects/Natours/.git/COMMIT_EDITMSG",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/main.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/css/style.css",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base/_base.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_header.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_button.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base/_typography.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base/_animations.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/index.html",
+		"/C/Udemy/Advanced CSS/Projects/Natours/node_modules/pinkie/readme.md",
+		"/C/Games/Valkyria.Chronicles.4-CODEX/codex.nfo",
 		"/C/Users/79267/Documents/.htaccess",
 		"/C/Users/79267/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 		"/C/Users/79267/Desktop/wp-config.php",
@@ -155,6 +255,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"3",
+			".&:",
+			"btn",
+			"primary",
+			"__logo",
+			"header",
+			"color",
+			"primary",
 			"#0177b5",
 			"linkedin",
 			"twp-social-icon-section",
@@ -207,88 +315,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1107,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								60,
-								50
-							]
-						],
-						"settings":
-						{
-							"auto_indent": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_width": 2,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 767,
+						"buffer_size": 3642,
 						"regions":
 						{
-							"col_008000FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-								],
-								"scope": "col_008000FF"
-							},
-							"col_008000FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_008000FF_circle.png",
-								"regions":
-								[
-								],
-								"scope": "col_gutter"
-							},
-							"col_FF0000FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-								],
-								"scope": "col_FF0000FF"
-							},
-							"col_FF0000FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_FF0000FF_circle.png",
-								"regions":
-								[
-								],
-								"scope": "col_gutter"
-							}
 						},
 						"selection":
 						[
 							[
-								693,
-								693
+								1249,
+								1249
 							]
 						],
 						"settings":
@@ -298,208 +342,67 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 522.4,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "css/style.css",
+					"buffer": 1,
+					"file": "sass/layout/_grid.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 532,
+						"buffer_size": 827,
 						"regions":
 						{
-							"col_008000FF":
+							"col_EEEEEEFF":
 							{
 								"flags": 16,
 								"regions":
 								[
 									[
-										18,
-										23
-									],
-									[
-										40,
-										45
-									],
-									[
-										60,
-										65
+										53,
+										57
 									]
 								],
-								"scope": "col_008000FF"
+								"scope": "col_EEEEEEFF"
 							},
-							"col_008000FF_icon":
+							"col_EEEEEEFF_icon":
 							{
 								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_008000FF_circle.png",
+								"icon": "Packages/User/Color Highlight.cache/col_EEEEEEFF_circle.png",
 								"regions":
 								[
 									[
-										12,
-										12
-									],
-									[
-										33,
-										33
-									],
-									[
-										55,
-										55
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_28B483CC":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										373,
-										395
-									]
-								],
-								"scope": "col_28B483CC"
-							},
-							"col_28B483CC_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_28B483CC_circle.png",
-								"regions":
-								[
-									[
-										371,
-										371
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_28B485FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										67,
-										74
-									]
-								],
-								"scope": "col_28B485FF"
-							},
-							"col_28B485FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_28B485FF_circle.png",
-								"regions":
-								[
-									[
-										55,
-										55
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_55C57AFF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										47,
-										54
-									]
-								],
-								"scope": "col_55C57AFF"
-							},
-							"col_55C57AFF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_55C57AFF_circle.png",
-								"regions":
-								[
-									[
-										33,
-										33
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_777777FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										243,
-										247
-									]
-								],
-								"scope": "col_777777FF"
-							},
-							"col_777777FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_777777FF_circle.png",
-								"regions":
-								[
-									[
-										235,
-										235
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_7ED56FCC":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										344,
-										368
-									]
-								],
-								"scope": "col_7ED56FCC"
-							},
-							"col_7ED56FCC_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_7ED56FCC_circle.png",
-								"regions":
-								[
-									[
-										342,
-										342
-									]
-								],
-								"scope": "col_gutter"
-							},
-							"col_7ED56FFF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										25,
+										32,
 										32
 									]
 								],
-								"scope": "col_7ED56FFF"
+								"scope": "col_gutter"
 							},
-							"col_7ED56FFF_icon":
+							"col_FF4500FF":
 							{
 								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_7ED56FFF_circle.png",
 								"regions":
 								[
 									[
-										12,
-										12
+										202,
+										211
+									]
+								],
+								"scope": "col_FF4500FF"
+							},
+							"col_FF4500FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF4500FF_circle.png",
+								"regions":
+								[
+									[
+										180,
+										180
 									]
 								],
 								"scope": "col_gutter"
@@ -508,19 +411,133 @@
 						"selection":
 						[
 							[
-								532,
-								532
+								184,
+								184
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 108.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sass/base/_utilities.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sass/pages/_home.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 97,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sass/base/_typography.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1076,
+								1076
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "sass/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								298,
+								298
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -532,7 +549,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 40.0
 	},
 	"layout":
 	{
@@ -602,8 +619,8 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 286.0,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
