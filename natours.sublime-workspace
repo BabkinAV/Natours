@@ -104,14 +104,12 @@
 	"buffers":
 	[
 		{
-			"contents": "node_modules/\n\n",
-			"file": ".gitignore",
-			"file_size": 15,
-			"file_write_time": 132299737055790787,
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 15,
-				"line_ending": "Windows"
+				"buffer_size": 12089,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -174,6 +172,7 @@
 	],
 	"file_history":
 	[
+		"/C/Udemy/Advanced CSS/Projects/Natours/.gitignore",
 		"/C/Udemy/Advanced CSS/Projects/Natours/natours.sublime-workspace",
 		"/C/Udemy/Advanced CSS/Projects/Natours/natours.sublime-project",
 		"/C/Udemy/Advanced CSS/Projects/Natours/index.html",
@@ -191,7 +190,6 @@
 		"/C/Udemy/Advanced CSS/Projects/Natours/package.json",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_grid.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base/_typography.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/.gitignore",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/abstracts/_mixins.scss",
 		"/C/Users/79267/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
 		"/C/Udemy/Advanced CSS/Projects/Natours/.git/COMMIT_EDITMSG",
@@ -326,27 +324,29 @@
 			[
 				{
 					"buffer": 0,
-					"file": ".gitignore",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 15,
+						"buffer_size": 12089,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14,
-								14
+								12066,
+								12066
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4998.4,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
