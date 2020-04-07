@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"border-top",
+				"border-top-left-radius"
+			],
+			[
+				"color-p",
+				"color-primary"
+			],
+			[
+				"b",
+				"btn--white"
+			],
+			[
+				"col",
+				"color-white"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"color",
+				"color-secondary-light"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
 				"inline",
 				"inline-block"
 			],
@@ -12,20 +56,8 @@
 				"border-radius"
 			],
 			[
-				"ba",
-				"background-color"
-			],
-			[
-				"col",
-				"color-white"
-			],
-			[
 				"colo",
 				"color-primary"
-			],
-			[
-				"text",
-				"text-decoration"
 			],
 			[
 				"inlin",
@@ -42,10 +74,6 @@
 			[
 				"fon",
 				"font-size"
-			],
-			[
-				"back",
-				"background-color"
 			],
 			[
 				"ani",
@@ -70,15 +98,22 @@
 			[
 				"co",
 				"cover\tbackground-size"
-			],
-			[
-				"bac",
-				"background-position\tproperty"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"contents": "node_modules/\n\n",
+			"file": ".gitignore",
+			"file_size": 15,
+			"file_write_time": 132299737055790787,
+			"settings":
+			{
+				"buffer_size": 15,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -139,27 +174,28 @@
 	],
 	"file_history":
 	[
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/pages/_home.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/main.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_feature-box.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/index.html",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_composition.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/css/styles.css",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/abstracts/_variables.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_button.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/package.json",
 		"/C/Udemy/Advanced CSS/Projects/Natours/natours.sublime-workspace",
 		"/C/Udemy/Advanced CSS/Projects/Natours/natours.sublime-project",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_grid.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/index.html",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/pages/_home.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base/_utilities.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_card.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_button.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/abstracts/_variables.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/main.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/css/style.css",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_header.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_feature-box.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_composition.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/css/styles.css",
+		"/C/Udemy/Advanced CSS/Projects/Natours/package.json",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_grid.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base/_typography.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/.gitignore",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/abstracts/_mixins.scss",
 		"/C/Users/79267/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
 		"/C/Udemy/Advanced CSS/Projects/Natours/.git/COMMIT_EDITMSG",
-		"/C/Udemy/Advanced CSS/Projects/Natours/css/style.css",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base/_base.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_header.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base/_animations.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/node_modules/pinkie/readme.md",
 		"/C/Games/Valkyria.Chronicles.4-CODEX/codex.nfo",
@@ -208,7 +244,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -285,14 +321,43 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -329,7 +394,7 @@
 	"project": "natours.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -367,7 +432,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 196.0,
+	"side_bar_width": 188.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
