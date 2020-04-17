@@ -4,20 +4,32 @@
 		"selected_items":
 		[
 			[
-				"col",
-				"color-primary"
-			],
-			[
 				"bac",
 				"background-color"
 			],
 			[
-				"ba",
-				"background-size"
+				"te",
+				"text-transform"
 			],
 			[
 				"text",
-				"text-transform"
+				"text-decoration"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"col",
+				"color-primary"
 			],
 			[
 				"color",
@@ -107,6 +119,45 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    \n    <link href=\"https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900\" rel=\"stylesheet\">\n\n    <link rel=\"stylesheet\" href=\"css/icon-font.css\">\n    <link rel=\"stylesheet\" href=\"css/style.css\">\n    <link rel=\"shortcut icon\" type=\"image/png\" href=\"img/favicon.png\">\n    \n    <title>Natours | Exciting tours for adventurous people</title>\n  </head>\n  <body>\n    <div class=\"navigation\">\n      <input type=\"checkbox\" class=\"navigation__checkbox\" id=\"navi-toggle\">\n\n      <label for=\"navi-toggle\" class=\"navigation__button\">MENU</label>\n      \n      <div class=\"navigation__background\">&nbsp;</div>\n\n      <nav class=\"navigation__nav\">\n        <ul class=\"navigation__list\">\n          <li class=\"navigation__item\"><a href=\"#\" class=\"navigation__link\"><span>01</span>About Natours</a></li>\n          <li class=\"navigation__item\"><a href=\"#\" class=\"navigation__link\"><span>02</span>Your benefits</a></li>\n          <li class=\"navigation__item\"><a href=\"#\" class=\"navigation__link\"><span>03</span>Popular tours</a></li>\n          <li class=\"navigation__item\"><a href=\"#\" class=\"navigation__link\"><span>04</span>Stories</a></li>\n          <li class=\"navigation__item\"><a href=\"#\" class=\"navigation__link\"><span>05</span>Book now</a></li>\n        </ul>\n\n      </nav>\n    </div>\n    \n    <header class=\"header\">\n        <div class=\"header__logo-box\">\n            <img src=\"img/logo-white.png\" alt=\"Logo\" class=\"header__logo\">\n        </div>\n        <div class = \"header__text-box\">\n            <h1 class = \"heading-primary\">\n            <span class = \"heading-primary--main\">Outdoors</span>\n            <span class = \"heading-primary--sub\">is where life happens</span>\n            </h1>\n            <a href = \"#\" class= \"btn btn--white btn--animated\">Discover our tours</a>\n        </div>\n    </header>\n<main>\n         <section class=\"section-about\">\n             <div class=\"u-center-text u-margin-bottom-big\">\n                 <h2 class=\"heading-secondary\">\n                     Exciting tours for adventerous people\n                 </h2>\n             </div>\n\n             <div class=\"row\">\n              <div class=\"col-1-of-2\">\n                  <h3 class=\"heading-tertiary u-margin-bottom-small\">\n                      You're going to fall in love with nature\n                  </h3>\n                  <p class=\"paragraph\">\n                      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita non perspiciatis, quaerat labore explicabo, sed rerum error ad nulla commodi voluptate laudantium, consectetur officiis corporis, aliquid ea tenetur impedit a!\n                  </p>\n                  <h3 class=\"heading-tertiary u-margin-bottom-small\">\n                      Live adventures like you never had before\n                  </h3>\n                  <p class=\"paragraph\">\n                      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates quod fugit, temporibus ex magnam.\n                  </p>\n\n                  <a href=\"#\" class=\"btn-text\">Learn more &rarr;</a>\n              </div>\n              <div class=\"col-1-of-2\">\n                  <div class=\"composition\">\n                      <img src=\"img/nat-1-large.jpg\" alt=\"Photo 1\" class=\"composition__photo composition__photo--p1\">\n                      <img src=\"img/nat-2-large.jpg\" alt=\"Photo 2\" class=\"composition__photo composition__photo--p2\">\n                      <img src=\"img/nat-3-large.jpg\" alt=\"Photo 3\" class=\"composition__photo composition__photo--p3\">\n                  </div>\n              </div>\n          </div>\n\n         </section>\n\n          <section class=\"section-features\">\n        \n            <div class=\"row\">\n                <div class=\"col-1-of-4\">\n                    <div class=\"feature-box\">\n                        <i class=\"feature-box__icon icon-basic-world\"></i>\n                        <h3 class=\"heading-tertiary u-margin-bottom-small\">Explore the world</h3>\n                        <p class=\"feature-box_text\">Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>\n                    </div>\n                </div>\n        \n                <div class=\"col-1-of-4\">\n                    <div class=\"feature-box\">\n                        <i class=\"feature-box__icon icon-basic-compass\"></i>\n                        <h3 class=\"heading-tertiary u-margin-bottom-small\">Meet nature</h3>\n                        <p class=\"feature-box_text\">Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>\n                    </div>\n                </div>\n        \n                <div class=\"col-1-of-4\">\n                    <div class=\"feature-box\">\n                        <i class=\"feature-box__icon icon-basic-map\"></i>\n                        <h3 class=\"heading-tertiary u-margin-bottom-small\">Find a way</h3>\n                        <p class=\"feature-box_text\">Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>\n                    </div>\n                </div>\n        \n                <div class=\"col-1-of-4\">\n                    <div class=\"feature-box\">\n                        <i class=\"feature-box__icon icon-basic-heart\"></i>\n                        <h3 class=\"heading-tertiary u-margin-bottom-small\">Live a healthier life</h3>\n                        <p class=\"feature-box_text\">Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>\n                    </div>\n                </div>\n            </div>\n        </section>\n        \n        <section class=\"section-tours\">\n            <div class=\"u-center-text u-margin-bottom-big\">\n              <h2 class=\"heading-secondary\">\n                  Most popular tours\n              </h2>\n            </div>\n             <div class=\"row\">\n                 <div class=\"col-1-of-3\">\n                     <div class=\"card\">\n                       <div class=\"card__side card__side--front\">\n                         <div class=\"card__picture card__picture--1\">\n                           &nbsp;\n                         </div>\n                         <h4 class=\"card__heading\">\n                           <span class=\"card__heading-span card__heading-span--1\">\n                             The Sea Explorer\n                           </span>\n                         </h4>\n                         <div class=\"card__details\">\n                           <ul>\n                             <li>3 day tours</li>\n                             <li>Up to 30 people</li>\n                             <li>2 tour guides</li>\n                             <li>Sleep in cozy hotels</li>\n                             <li>Difficulty: easy</li>\n                           </ul>\n                         </div>\n                       </div>\n                       <div class=\"card__side card__side--back card__side--back-1\">\n                         <div class=\"card__cta\">\n                           <div class=\"card__price-box\">\n                             <p class=\"card__price-only\">Only</p>\n                             <p class=\"card__price-value\">$297</p>\n                           </div>\n                           <a href=\"#\" class=\"btn btn--white\">Book now!</a>\n                         </div>\n                       </div>\n                     </div>\n                 </div>\n        \n                 <div class=\"col-1-of-3\">\n                   <div class=\"card\">\n                       <div class=\"card__side card__side--front\">\n                         <div class=\"card__picture card__picture--2\">\n                           &nbsp;\n                         </div>\n                         <h4 class=\"card__heading\">\n                           <span class=\"card__heading-span card__heading-span--2\">\n                             The Forest Hiker\n                           </span>\n                         </h4>\n                         <div class=\"card__details\">\n                           <ul>\n                             <li>7 day tours</li>\n                             <li>Up to 40 people</li>\n                             <li>2 tour guides</li>\n                             <li>Sleep in provided tents</li>\n                             <li>Difficulty: medium</li>\n                           </ul>\n                         </div>\n                       </div>\n                       <div class=\"card__side card__side--back card__side--back-2\">\n                         <div class=\"card__cta\">\n                           <div class=\"card__price-box\">\n                             <p class=\"card__price-only\">Only</p>\n                             <p class=\"card__price-value\">$497</p>\n                           </div>\n                           <a href=\"#\" class=\"btn btn--white\">Book now!</a>\n                         </div>\n                       </div>\n                     </div>\n                 </div>\n        \n                 <div class=\"col-1-of-3\">\n                   <div class=\"card\">\n                       <div class=\"card__side card__side--front\">\n                         <div class=\"card__picture card__picture--3\">\n                           &nbsp;\n                         </div>\n                         <h4 class=\"card__heading\">\n                           <span class=\"card__heading-span card__heading-span--3\">\n                             The Snow Adventurer\n                           </span>\n                         </h4>\n                         <div class=\"card__details\">\n                           <ul>\n                             <li>5 day tour</li>\n                             <li>Up to 15 people</li>\n                             <li>3 tour guides</li>\n                             <li>Sleep in provided tents</li>\n                             <li>Difficulty: hard</li>\n                           </ul>\n                         </div>\n                       </div>\n                       <div class=\"card__side card__side--back card__side--back-3\">\n                         <div class=\"card__cta\">\n                           <div class=\"card__price-box\">\n                             <p class=\"card__price-only\">Only</p>\n                             <p class=\"card__price-value\">$697</p>\n                           </div>\n                           <a href=\"#\" class=\"btn btn--white\">Book now!</a>\n                         </div>\n                       </div>\n                     </div>\n                 </div>\n             </div>\n        \n             <div class=\"u-center-text u-margin-top-huge\">\n               <a href=\"#\" class=\"btn btn--green\">Discover all tours</a>\n             </div>\n        </section>\n        \n        <section class=\"section-stories\">\n        \n         <div class=\"bg-video\">\n           <video  class=\"bg-video__content\" autoplay muted loop>\n               <source src=\"img/video.mp4\" type=\"video/mp4\">\n               <source src=\"img/video.webm\" type=\"video/webm\">\n               Your browser is not supported!\n           </video>\n        \n         </div>\n          \n           <div class=\"u-center-text u-margin-bottom-big\">\n              <h2 class=\"heading-secondary\">\n                  We make people genuinly happy\n              </h2>\n            </div>\n        \n            <div class=\"row\">\n              <div class=\"story\">\n                <figure class=\"story__shape\">\n                  <img src=\"img/nat-8.jpg\" alt=\"Person on a tour\" class=\"story__img\">\n                  <figcaption class=\"story__caption\">Mary Smith</figcaption>\n                </figure>\n                <div class=\"story__text\">\n                  <h3 class=\"heading-tertiary u-margin-bottom-small\">I had the best week ever with my family</h3>\n                  <p class=\"feature-box_text\">Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>\n                </div>\n              </div>\n            </div>\n        \n           <div class=\"row\">\n              <div class=\"story\">\n                <figure class=\"story__shape\">\n                  <img src=\"img/nat-9.jpg\" alt=\"Person on a tour\" class=\"story__img\">\n                  <figcaption class=\"story__caption\">Jack Wilson</figcaption>\n                </figure>\n                <div class=\"story__text\">\n                  <h3 class=\"heading-tertiary u-margin-bottom-small\">WOW! My life is completely different now</h3>\n                  <p class=\"feature-box_text\">Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>\n                </div>\n              </div>\n            </div>\n          <div class=\"u-center-text u-margin-top-huge\">\n               <a href=\"#\" class=\"btn-text\">Read all stories&rarr;</a>\n             </div>\n        </section>\n        \n        <section class=\"section-book\">\n          <div class=\"row\">\n            <div class=\"book\">\n              <div class=\"book__form\">\n                 <div class=\"u-margin-bottom-medium\">\n                   <h2 class=\"heading-secondary\">\n                       Start booking now\n                   </h2>\n                 </div>\n                <form action=\"#\" class=\"form\">\n                  <div class=\"form__group\">\n                    <input type=\"text\" class=\"form__input\" placeholder=\"Full Name\" id =\"name\" required>\n                    <label for=\"name\" class=\"form__label\">Full name</label>\n                  </div>\n        \n                   <div class=\"form__group\">\n                    <input type=\"email\" class=\"form__input\" placeholder=\"Email address\" id =\"email\" required>\n                    <label for=\"email\" class=\"form__label\">Email address</label>\n                  </div>\n        \n                  <div class=\"form__group u-margin-bottom-medium\">\n                    <div class=\"form__radio-group\">\n                      <input type=\"radio\" class=\"form__radio-input\" id=\"small\" name=\"size\">\n                      <label for=\"small\" class=\"form__radio-label\">\n                       <span class=\"form__radio-button\"></span>\n                      Small tour group</label>\n                    </div>\n        \n                    <div class=\"form__radio-group\">\n                      <input type=\"radio\" class=\"form__radio-input\" id=\"large\" name=\"size\">\n                      <label for=\"large\" class=\"form__radio-label\">\n                       <span class=\"form__radio-button\"></span>\n                      Large tour group</label>\n                    </div>\n                  </div>\n        \n                 <div class=\"form__group\">            \n                  <button class=\"btn btn--green\">Next step&rarr;</button>\n                 </div> \n                </form>\n              </div>\n            </div>\n          </div>\n        </section> \n      </main>\n\n    <footer class=\"footer\">\n      <div class=\"footer__logo-box\">\n        <img src=\"img/logo-green-2x.png\" alt=\"Full logo\" class=\"footer__logo\">\n      </div>\n      <div class=\"row\">\n        <div class=\"col-1-of-2\">\n          <div class=\"footer__navigation\">\n            <ul class=\"footer__list\">\n              <li class=\"footer__item\"><a href=\"#\" class=\"footer__link\">Company</a></li>\n              <li class=\"footer__item\"><a href=\"#\" class=\"footer__link\">Contact us</a></li>\n              <li class=\"footer__item\"><a href=\"#\" class=\"footer__link\">Carrers</a></li>\n              <li class=\"footer__item\"><a href=\"#\" class=\"footer__link\">Privacy policy</a></li>\n              <li class=\"footer__item\"><a href=\"#\" class=\"footer__link\">Terms</a></li>\n            </ul>\n          </div>\n        </div>\n        <div class=\"col-1-of-2\">\n          <p class=\"footer__copyright\">\n            Built by <a href=\"\" class=\"footer__link\">Andrey V. Babkin</a> for his  online course <a href=\"#\" class=\"footer__link\">Advanced CSS and Sass</a> Copyright &copy; Andrey V. Babkin. Originally made by Jonas Schmettman for Advanced CSS Udemy web-course.\n          </p>\n        </div>\n      </div>\n    </footer>\n\n<!-- \n      <section class=\"grid-test\">\n          <div class=\"row\">\n              <div class=\"col-1-of-2\">\n                  Col 1 of 2\n              </div>\n              <div class=\"col-1-of-2\">\n                  Col 1 of 2\n              </div>\n          </div>\n\n          <div class=\"row\">\n              <div class=\"col-1-of-3\">\n                  Col 1 of 3\n              </div>\n               <div class=\"col-1-of-3\">\n                  Col 1 of 3\n              </div>\n               <div class=\"col-1-of-3\">\n                  Col 1 of 3\n              </div>\n          </div>\n\n          <div class=\"row\">\n              <div class=\"col-1-of-3\">\n                  Col 1 of 3\n              </div>\n              <div class=\"col-2-of-3\">\n                  Col 2 of 3\n              </div>\n          </div>\n\n           <div class=\"row\">\n              <div class=\"col-1-of-4\">\n                  Col 1 of 4\n              </div>\n               <div class=\"col-1-of-4\">\n                  Col 1 of 4\n              </div>\n               <div class=\"col-1-of-4\">\n                  Col 1 of 4\n              </div>\n              <div class=\"col-1-of-4\">\n                  Col 1 of 4\n              </div>\n          </div>\n\n          <div class=\"row\">\n              <div class=\"col-1-of-4\">\n                  Col 1 of 4\n              </div>\n               <div class=\"col-1-of-4\">\n                  Col 1 of 4\n              </div>\n               <div class=\"col-2-of-4\">\n                  Col 2 of 4\n              </div>\n          </div>\n          <div class=\"row\">\n              <div class=\"col-1-of-4\">\n                  Col 1 of 4\n              </div>\n               <div class=\"col-3-of-4\">\n                  Col 3 of 4\n              </div>\n          </div>\n      </section>      -->  \n  </body>\n</html>\n\n\n<!-- some comment -->",
+			"file": "index.html",
+			"file_size": 18642,
+			"file_write_time": 132315301354443434,
+			"settings":
+			{
+				"buffer_size": 18652,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": ".navigation {\n\t&__checkbox {\n\t\tdisplay: none;\n\t}\n\n\t&__button {\n\t\tbackground-color: $color-white;\n\t\theight: 7rem;\n\t\twidth: 7rem;\n\t\tposition: fixed;\n\t\ttop: 6rem;\n\t\tright: 6rem;\n\t\tborder-radius: 50%;\n\t\tz-index: 2000;\n\t\tbox-shadow: 0 1rem 3rem rgba($color-black,.1);\n\t}\n\n\t&__background {\n\t\theight: 6rem;\n\t\twidth: 6rem;\n\t\tborder-radius: 50%;\n\t\tposition: fixed;\n\t\ttop: 6.5rem;\n\t\tright: 6.5rem;\n\t\tbackground-image: radial-gradient($color-primary-light, $color-primary-dark);\n\t\tz-index: 1000;\n\t\ttransition: transform .8s;\n\n\t\t//transform: scale(80);\n\t}\n\n\t&__nav {\n\t\theight: 100vh;\n\t\tposition: fixed;\n\t\ttop: 0;\n\t\tleft: 0;\n\t\tz-index: 1500;\n\t\tbackground-color: red;\n\n\t\topacity: 0;\n\t\twidth: 0;\n\t\ttransition: all .8s;\n\t} \n\n\t&__list {\n\n\t\tposition: absolute;\n\t\ttop: 50%;\n\t\tleft: 50%;\n\t\ttransform: translate(-50%, -50%);\n\t\tlist-style: none;\n\t\ttext-align: center;\n\t\twidth: 100%;\n\n\t}\n\n\t&__item {\n\t\tmargin: 1rem;\n\n\t}\n\n\t&__link {\n\t\t&:link,\n\t\t&:visited {\n\t\t\tdisplay: inline-block;\n\t\t\tfont-size: 3rem;\n\t\t\tfont-weight: 300;\n\t\t\tpadding: 1rem 2rem;\n\t\t\tcolor: $color-white;\n\t\t\ttext-decoration: none;\n\t\t\ttext-transform: uppercase;\n\t\t\tbackground-image: linear-gradient(120deg, transparent 0%, transparent 50%, $color-white 50%);\n\t\t\tbackground-size: 220%;\n\t\t\ttransition: all .4s;\n\t\t\tspan {\n\t\t\t\tmargin-right: 1rem;\n\t\t\t\tdisplay: inline-block;\n\t\t\t}\n\t\t}\n\n\t\t&:hover,\n\t\t&:active {\n\t\t\tbackground-position: 100%;\n\t\t\tcolor: $color-primary;\n\t\t\ttransform: translateX(1rem);\n\t\t}\t\n\t}\n\n\t&__checkbox:checked ~ &__background {\n\t\ttransform: scale(80);\n\t}\n\n\t&__checkbox:checked ~ &__nav {\n\t\topacity: 1;\n\t\twidth: 100%;\n\t}\n}",
+			"file": "sass/layout/_navigation.scss",
+			"file_size": 1691,
+			"file_write_time": 132315325768423500,
+			"settings":
+			{
+				"buffer_size": 1574,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/abstracts/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 518,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 16256,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -167,14 +218,14 @@
 	],
 	"file_history":
 	[
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/main.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_footer.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/abstracts/_variables.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_button.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_form.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base/_utilities.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/pages/_home.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/index.html",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_footer.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/main.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/abstracts/_variables.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_story.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_bg-video.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/.gitignore",
@@ -318,8 +369,1386 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1430,
+								1430
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 132.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sass/layout/_navigation.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1504,
+								1504
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1197.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sass/abstracts/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								193
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16256,
+						"regions":
+						{
+							"col_00000019":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										8261,
+										8279
+									],
+									[
+										10122,
+										10140
+									],
+									[
+										13853,
+										13871
+									]
+								],
+								"scope": "col_00000019"
+							},
+							"col_00000019_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00000019_circle.png",
+								"regions":
+								[
+									[
+										8235,
+										8235
+									],
+									[
+										10094,
+										10094
+									],
+									[
+										13827,
+										13827
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00000026":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										4409,
+										4428
+									],
+									[
+										4511,
+										4530
+									],
+									[
+										4736,
+										4755
+									],
+									[
+										5428,
+										5447
+									]
+								],
+								"scope": "col_00000026"
+							},
+							"col_00000026_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00000026_circle.png",
+								"regions":
+								[
+									[
+										4383,
+										4383
+									],
+									[
+										4483,
+										4483
+									],
+									[
+										4708,
+										4708
+									],
+									[
+										5398,
+										5398
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00000033":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1765,
+										1783
+									],
+									[
+										3365,
+										3383
+									],
+									[
+										3572,
+										3590
+									],
+									[
+										16154,
+										16172
+									]
+								],
+								"scope": "col_00000033"
+							},
+							"col_00000033_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00000033_circle.png",
+								"regions":
+								[
+									[
+										1731,
+										1731
+									],
+									[
+										3339,
+										3339
+									],
+									[
+										3544,
+										3544
+									],
+									[
+										16126,
+										16126
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00000066":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2436,
+										2454
+									],
+									[
+										13441,
+										13459
+									]
+								],
+								"scope": "col_00000066"
+							},
+							"col_00000066_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00000066_circle.png",
+								"regions":
+								[
+									[
+										2406,
+										2406
+									],
+									[
+										13413,
+										13413
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0000007F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2902,
+										2920
+									]
+								],
+								"scope": "col_0000007F"
+							},
+							"col_0000007F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0000007F_circle.png",
+								"regions":
+								[
+									[
+										2870,
+										2870
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_008000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										5556,
+										5561
+									]
+								],
+								"scope": "col_008000FF"
+							},
+							"col_008000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_008000FF_circle.png",
+								"regions":
+								[
+									[
+										5532,
+										5532
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_28B485CC":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										11465,
+										11488
+									],
+									[
+										15468,
+										15491
+									]
+								],
+								"scope": "col_28B485CC"
+							},
+							"col_28B485CC_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_28B485CC_circle.png",
+								"regions":
+								[
+									[
+										11393,
+										11393
+									],
+									[
+										15396,
+										15396
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_28B485D8":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										7311,
+										7335
+									]
+								],
+								"scope": "col_28B485D8"
+							},
+							"col_28B485D8_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_28B485D8_circle.png",
+								"regions":
+								[
+									[
+										7227,
+										7227
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_28B485FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1535,
+										1542
+									],
+									[
+										4943,
+										4950
+									],
+									[
+										5804,
+										5811
+									],
+									[
+										6562,
+										6569
+									],
+									[
+										14051,
+										14058
+									],
+									[
+										15912,
+										15919
+									]
+								],
+								"scope": "col_28B485FF"
+							},
+							"col_28B485FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_28B485FF_circle.png",
+								"regions":
+								[
+									[
+										1480,
+										1480
+									],
+									[
+										4886,
+										4886
+									],
+									[
+										5736,
+										5736
+									],
+									[
+										6496,
+										6496
+									],
+									[
+										14006,
+										14006
+									],
+									[
+										15850,
+										15850
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_2998FFD8":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										7426,
+										7450
+									]
+								],
+								"scope": "col_2998FFD8"
+							},
+							"col_2998FFD8_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_2998FFD8_circle.png",
+								"regions":
+								[
+									[
+										7369,
+										7369
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_2998FFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										5903,
+										5910
+									],
+									[
+										6678,
+										6685
+									]
+								],
+								"scope": "col_2998FFFF"
+							},
+							"col_2998FFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_2998FFFF_circle.png",
+								"regions":
+								[
+									[
+										5844,
+										5844
+									],
+									[
+										6621,
+										6621
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_333333FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										12681,
+										12685
+									],
+									[
+										13229,
+										13233
+									]
+								],
+								"scope": "col_333333FF"
+							},
+							"col_333333FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_333333FF_circle.png",
+								"regions":
+								[
+									[
+										12661,
+										12661
+									],
+									[
+										13207,
+										13207
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_55C57AFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2831,
+										2838
+									],
+									[
+										3740,
+										3747
+									],
+									[
+										3811,
+										3818
+									],
+									[
+										4184,
+										4191
+									],
+									[
+										4270,
+										4277
+									],
+									[
+										4359,
+										4366
+									],
+									[
+										10171,
+										10178
+									],
+									[
+										10865,
+										10872
+									],
+									[
+										11216,
+										11223
+									],
+									[
+										13404,
+										13411
+									],
+									[
+										15035,
+										15042
+									]
+								],
+								"scope": "col_55C57AFF"
+							},
+							"col_55C57AFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_55C57AFF_circle.png",
+								"regions":
+								[
+									[
+										2803,
+										2803
+									],
+									[
+										3720,
+										3720
+									],
+									[
+										3789,
+										3789
+									],
+									[
+										4175,
+										4175
+									],
+									[
+										4243,
+										4243
+									],
+									[
+										4339,
+										4339
+									],
+									[
+										10142,
+										10142
+									],
+									[
+										10845,
+										10845
+									],
+									[
+										11194,
+										11194
+									],
+									[
+										13393,
+										13393
+									],
+									[
+										15026,
+										15026
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_5643FAD8":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										7452,
+										7475
+									]
+								],
+								"scope": "col_5643FAD8"
+							},
+							"col_5643FAD8_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_5643FAD8_circle.png",
+								"regions":
+								[
+									[
+										7369,
+										7369
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_5643FAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										5912,
+										5919
+									],
+									[
+										6687,
+										6694
+									]
+								],
+								"scope": "col_5643FAFF"
+							},
+							"col_5643FAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_5643FAFF_circle.png",
+								"regions":
+								[
+									[
+										5844,
+										5844
+									],
+									[
+										6621,
+										6621
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_777777FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1339,
+										1343
+									],
+									[
+										3644,
+										3648
+									],
+									[
+										12927,
+										12931
+									],
+									[
+										13552,
+										13556
+									]
+								],
+								"scope": "col_777777FF"
+							},
+							"col_777777FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_777777FF_circle.png",
+								"regions":
+								[
+									[
+										1330,
+										1330
+									],
+									[
+										3635,
+										3635
+									],
+									[
+										12901,
+										12901
+									],
+									[
+										13526,
+										13526
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_7ED56FCC":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										11439,
+										11463
+									],
+									[
+										15442,
+										15466
+									]
+								],
+								"scope": "col_7ED56FCC"
+							},
+							"col_7ED56FCC_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_7ED56FCC_circle.png",
+								"regions":
+								[
+									[
+										11393,
+										11393
+									],
+									[
+										15396,
+										15396
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_7ED56FD8":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										7284,
+										7309
+									]
+								],
+								"scope": "col_7ED56FD8"
+							},
+							"col_7ED56FD8_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_7ED56FD8_circle.png",
+								"regions":
+								[
+									[
+										7227,
+										7227
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_7ED56FFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1526,
+										1533
+									],
+									[
+										4934,
+										4941
+									],
+									[
+										5795,
+										5802
+									],
+									[
+										6553,
+										6560
+									],
+									[
+										14042,
+										14049
+									],
+									[
+										15903,
+										15910
+									]
+								],
+								"scope": "col_7ED56FFF"
+							},
+							"col_7ED56FFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_7ED56FFF_circle.png",
+								"regions":
+								[
+									[
+										1480,
+										1480
+									],
+									[
+										4886,
+										4886
+									],
+									[
+										5736,
+										5736
+									],
+									[
+										6496,
+										6496
+									],
+									[
+										14006,
+										14006
+									],
+									[
+										15850,
+										15850
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_999999FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										10308,
+										10312
+									]
+								],
+								"scope": "col_999999FF"
+							},
+							"col_999999FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_999999FF_circle.png",
+								"regions":
+								[
+									[
+										10297,
+										10297
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_EEEEEEFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										7802,
+										7806
+									]
+								],
+								"scope": "col_EEEEEEFF"
+							},
+							"col_EEEEEEFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_EEEEEEFF_circle.png",
+								"regions":
+								[
+									[
+										7767,
+										7767
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F7F7F7FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										12737,
+										12744
+									],
+									[
+										13198,
+										13205
+									],
+									[
+										15303,
+										15310
+									],
+									[
+										15688,
+										15695
+									]
+								],
+								"scope": "col_F7F7F7FF"
+							},
+							"col_F7F7F7FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F7F7F7FF_circle.png",
+								"regions":
+								[
+									[
+										12728,
+										12728
+									],
+									[
+										13187,
+										13187
+									],
+									[
+										15283,
+										15283
+									],
+									[
+										15668,
+										15668
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF0000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										14223,
+										14226
+									]
+								],
+								"scope": "col_FF0000FF"
+							},
+							"col_FF0000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF0000FF_circle.png",
+								"regions":
+								[
+									[
+										14203,
+										14203
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF4500FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										15169,
+										15178
+									]
+								],
+								"scope": "col_FF4500FF"
+							},
+							"col_FF4500FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF4500FF_circle.png",
+								"regions":
+								[
+									[
+										15160,
+										15160
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF7730D8":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										7169,
+										7193
+									]
+								],
+								"scope": "col_FF7730D8"
+							},
+							"col_FF7730D8_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF7730D8_circle.png",
+								"regions":
+								[
+									[
+										7087,
+										7087
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF7730FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										5696,
+										5703
+									],
+									[
+										6437,
+										6444
+									],
+									[
+										10242,
+										10249
+									]
+								],
+								"scope": "col_FF7730FF"
+							},
+							"col_FF7730FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF7730FF_circle.png",
+								"regions":
+								[
+									[
+										5628,
+										5628
+									],
+									[
+										6371,
+										6371
+									],
+									[
+										10213,
+										10213
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFB900D8":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										7144,
+										7167
+									]
+								],
+								"scope": "col_FFB900D8"
+							},
+							"col_FFB900D8_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFB900D8_circle.png",
+								"regions":
+								[
+									[
+										7087,
+										7087
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFB900FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										5687,
+										5694
+									],
+									[
+										6428,
+										6435
+									]
+								],
+								"scope": "col_FFB900FF"
+							},
+							"col_FFB900FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFB900FF_circle.png",
+								"regions":
+								[
+									[
+										5628,
+										5628
+									],
+									[
+										6371,
+										6371
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFF7F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										9912,
+										9936
+									]
+								],
+								"scope": "col_FFFFFF7F"
+							},
+							"col_FFFFFF7F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFF7F_circle.png",
+								"regions":
+								[
+									[
+										9892,
+										9892
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFF99":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										8301,
+										8325
+									]
+								],
+								"scope": "col_FFFFFF99"
+							},
+							"col_FFFFFF99_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFF99_circle.png",
+								"regions":
+								[
+									[
+										8281,
+										8281
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFCC":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										4598,
+										4622
+									]
+								],
+								"scope": "col_FFFFFFCC"
+							},
+							"col_FFFFFFCC_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFCC_circle.png",
+								"regions":
+								[
+									[
+										4578,
+										4578
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFE5":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										15977,
+										16001
+									],
+									[
+										16006,
+										16030
+									]
+								],
+								"scope": "col_FFFFFFE5"
+							},
+							"col_FFFFFFE5_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFE5_circle.png",
+								"regions":
+								[
+									[
+										15933,
+										15933
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										686,
+										690
+									],
+									[
+										3629,
+										3633
+									],
+									[
+										3697,
+										3701
+									],
+									[
+										3758,
+										3762
+									],
+									[
+										4377,
+										4381
+									],
+									[
+										5500,
+										5504
+									],
+									[
+										6851,
+										6855
+									],
+									[
+										8014,
+										8018
+									],
+									[
+										9091,
+										9095
+									],
+									[
+										13704,
+										13708
+									],
+									[
+										14629,
+										14633
+									],
+									[
+										14766,
+										14770
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							},
+							"col_FFFFFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+								"regions":
+								[
+									[
+										677,
+										677
+									],
+									[
+										3609,
+										3609
+									],
+									[
+										3675,
+										3675
+									],
+									[
+										3749,
+										3749
+									],
+									[
+										4368,
+										4368
+									],
+									[
+										5476,
+										5476
+									],
+									[
+										6840,
+										6840
+									],
+									[
+										8003,
+										8003
+									],
+									[
+										9080,
+										9080
+									],
+									[
+										13684,
+										13684
+									],
+									[
+										14620,
+										14620
+									],
+									[
+										14689,
+										14689
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								525,
+								527
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -400,7 +1829,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 260.0,
+	"side_bar_width": 217.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
