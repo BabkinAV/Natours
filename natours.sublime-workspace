@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"text",
+				"text-align"
+			],
+			[
+				"BAC",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"sectio",
+				"section-about"
+			],
+			[
 				"mar",
 				"margin-bottom"
 			],
@@ -26,10 +46,6 @@
 			[
 				"te",
 				"text-transform"
-			],
-			[
-				"text",
-				"text-decoration"
 			],
 			[
 				"paddi",
@@ -70,10 +86,6 @@
 			[
 				"text-",
 				"text-transform"
-			],
-			[
-				"back",
-				"background-size"
 			],
 			[
 				"border",
@@ -144,12 +156,12 @@
 		"selected_items":
 		[
 			[
-				"",
-				"Autoprefix CSS"
+				"Package Control: ",
+				"Package Control: Remove Package"
 			],
 			[
-				"Package Control: ",
-				"Package Control: Install Package"
+				"",
+				"Autoprefix CSS"
 			],
 			[
 				"set syntax: css",
@@ -191,34 +203,34 @@
 	],
 	"file_history":
 	[
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_header.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/index.html",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_popup.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/abstracts/_mixins.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/main.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/css/style.css",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_navigation.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/abstracts/_variables.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_footer.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_button.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_composition.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_form.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base/_utilities.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_grid.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/pages/_home.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_story.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_card.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_feature-box.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base/_utilities.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base/_base.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_footer.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/abstracts/_variables.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_navigation.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/abstracts/_mixins.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base/_typography.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/css/style.css",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/main.scss",
+		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_button.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_bg-video.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/.gitignore",
 		"/C/Udemy/Advanced CSS/Projects/Natours/natours.sublime-workspace",
 		"/C/Udemy/Advanced CSS/Projects/Natours/natours.sublime-project",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_card.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_header.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_feature-box.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/components/_composition.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/css/styles.css",
 		"/C/Udemy/Advanced CSS/Projects/Natours/package.json",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/layout/_grid.scss",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base/_typography.scss",
 		"/C/Users/79267/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
 		"/C/Udemy/Advanced CSS/Projects/Natours/.git/COMMIT_EDITMSG",
-		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base/_base.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/sass/base/_animations.scss",
 		"/C/Udemy/Advanced CSS/Projects/Natours/node_modules/pinkie/readme.md",
 		"/C/Games/Valkyria.Chronicles.4-CODEX/codex.nfo",
