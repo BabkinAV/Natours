@@ -29,6 +29,10 @@
 		width: 15rem;
 		height: 15rem;
 		float: left;
+		transform: translateX(-3rem) skewX(7deg);
+		position: relative;
+		overflow: hidden;
+		border-radius: 50%;
 
 		@supports (clip-path: polygon(0 0)) or (-webkit-clip-path: 0 0) {
 			
@@ -36,10 +40,8 @@
 			clip-path: circle(50% at 50% 50%);
 			-webkit-shape-outside: circle(50% at 50% 50%);
 			shape-outside: circle(50% at 50% 50%);
+			border-radius: none;
 		}
-		transform: translateX(-3rem) skewX(7deg);
-		position: relative;
-		overflow: hidden;
 
 		@include respond(phone) {
 
